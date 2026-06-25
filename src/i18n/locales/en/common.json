@@ -1,0 +1,194 @@
+{
+  "siteName": "Land",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "skipToContent": "Skip to content",
+  "scrollToTop": "Back to top",
+  "loading": "Loading...",
+  "error": {
+    "title": "Something went wrong",
+    "message": "An unexpected error occurred. Please try again.",
+    "retry": "Try again"
+  },
+  "hero": {
+    "title": "We Build Digital Products That Drive Growth",
+    "subtitle": "Full-cycle software development — from concept to launch and beyond. We help startups and enterprises turn ideas into scalable, high-performance applications.",
+    "ctaContact": "Get in Touch",
+    "ctaProjects": "Our Projects"
+  },
+  "about": {
+    "title": "About Our Company",
+    "subtitle": "Driven by innovation, powered by expertise",
+    "description": "We are a team of passionate engineers, designers, and strategists dedicated to building exceptional digital experiences. Since our founding, we have delivered over a hundred successful projects for clients across fintech, healthcare, e-commerce, and enterprise SaaS. Our collaborative approach and deep technical expertise enable us to solve the most complex challenges — on time and within budget.",
+    "stats": {
+      "years": "Years on Market",
+      "projects": "Projects Delivered",
+      "clients": "Happy Clients",
+      "employees": "Team Members"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "End-to-end solutions tailored to your business goals",
+    "web": {
+      "title": "Web Development",
+      "description": "High-performance web applications built with modern frameworks and best practices.",
+      "features": {
+        "custom": "Custom web applications",
+        "react": "React, Next.js & Vue development",
+        "seo": "SEO-optimized architecture",
+        "performance": "Performance & accessibility audits"
+      }
+    },
+    "mobile": {
+      "title": "Mobile Applications",
+      "description": "Native and cross-platform mobile apps that users love, from iOS to Android.",
+      "features": {
+        "crossplatform": "Cross-platform with React Native",
+        "native": "Native iOS & Android development",
+        "push": "Push notifications & real-time sync",
+        "offline": "Offline-first architecture"
+      }
+    },
+    "uiux": {
+      "title": "UI/UX Design",
+      "description": "Beautiful, intuitive interfaces backed by research and user testing.",
+      "features": {
+        "research": "User research & personas",
+        "prototype": "Interactive prototypes",
+        "designsystem": "Design systems & component libraries",
+        "testing": "Usability testing & iteration"
+      }
+    },
+    "devops": {
+      "title": "DevOps & Infrastructure",
+      "description": "Reliable, scalable cloud infrastructure with automated deployment pipelines.",
+      "features": {
+        "cicd": "CI/CD pipelines",
+        "cloud": "AWS, GCP & Azure management",
+        "monitoring": "Monitoring & alerting",
+        "automation": "Infrastructure as Code"
+      }
+    },
+    "consulting": {
+      "title": "IT Consulting",
+      "description": "Strategic technology consulting to align your tech stack with business objectives.",
+      "features": {
+        "audit": "Technical audits & code reviews",
+        "strategy": "Digital transformation strategy",
+        "architecture": "System architecture design",
+        "optimization": "Performance optimization"
+      }
+    },
+    "support": {
+      "title": "Technical Support",
+      "description": "Round-the-clock maintenance and support to keep your systems running smoothly.",
+      "features": {
+        "monitoring247": "24/7 monitoring",
+        "bugfix": "Bug fixing & troubleshooting",
+        "updates": "Regular updates & patches",
+        "sla": "SLA-backed response times"
+      }
+    },
+    "cta": "Learn More"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the people who make it all happen",
+    "members": {
+      "ceo": {
+        "name": "Alexei Volkov",
+        "role": "CEO & Founder",
+        "bio": "20+ years in software engineering and business leadership."
+      },
+      "cto": {
+        "name": "Maria Chen",
+        "role": "CTO",
+        "bio": "Full-stack architect with deep expertise in distributed systems."
+      },
+      "leadDev": {
+        "name": "Dmitry Sokolov",
+        "role": "Lead Developer",
+        "bio": "Open-source contributor and React performance specialist."
+      },
+      "designer": {
+        "name": "Elena Morozova",
+        "role": "UI/UX Designer",
+        "bio": "Award-winning designer with a background in cognitive psychology."
+      },
+      "pm": {
+        "name": "Igor Petrov",
+        "role": "Project Manager",
+        "bio": "PMP-certified manager who keeps complex projects on track."
+      },
+      "qa": {
+        "name": "Anna Kuznetsova",
+        "role": "QA Engineer",
+        "bio": "Automation testing expert ensuring zero-bug releases."
+      }
+    },
+    "socialLabel": "Social links for {{name}}"
+  },
+  "portfolio": {
+    "title": "Our Projects",
+    "subtitle": "Real cases with measurable results",
+    "filterAll": "All",
+    "empty": "Projects coming soon",
+    "emptyFilter": "No projects in this category",
+    "viewProject": "View Project"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "What our clients say about working with us"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Tell us about your project — we will find the best solution",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! We will get back to you shortly.",
+      "error": "An error occurred. Please try again later."
+    },
+    "info": {
+      "email": "hello@devfirm.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Market St, San Francisco, CA",
+      "hours": "Working Hours",
+      "hoursValue": "Mon-Fri: 9:00 — 18:00"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist or has been moved.",
+    "cta": "Go Home"
+  },
+  "meta": {
+    "home": {
+      "title": "DevFirm — IT Consulting & Development",
+      "description": "Software development, IT consulting and digital transformation"
+    },
+    "services": {
+      "title": "Services — DevFirm",
+      "description": "Full-cycle development: from audit to support"
+    }
+  },
+  "footer": {
+    "description": "We build modern digital solutions that help businesses grow. Our team brings together design, technology, and strategy.",
+    "navigation": "Navigation",
+    "contacts": "Contacts",
+    "email": "hello@devfirm.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Market St, San Francisco, CA",
+    "privacy": "Privacy Policy",
+    "copyright": "© {{year}} DevFirm. All rights reserved."
+  }
+}
